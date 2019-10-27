@@ -33,7 +33,7 @@ import (
 	"errors"
 	"fmt"
 	"github.com/kardianos/osext"
-	"gitlab.com/nyarla/go-crypt"
+	"github.com/NickTaporuk/go-crypt"
 	"math/big"
 	"net"
 	"os"
